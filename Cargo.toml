@@ -1,0 +1,12 @@
+[package]
+name = "ip2location-rs"
+version = "1.0.0"
+authors = ["Kristian Takvam <kristian@brilliant.org>"]
+
+[dependencies]
+byteorder = "1.2.3"
+failure = "0.1.1"
+memmap = "0.6.2"
+num-traits = "0.2.5"
+serde = "1.0.70"
+serde_derive = "1.0.70"
